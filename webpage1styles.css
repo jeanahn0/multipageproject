@@ -1,0 +1,22 @@
+.pink-class{
+	background-color:  lightpink;
+	position: fixed;
+	height:  2000px;
+	width:  1420px;
+}
+.yellow-class{
+	background-color: lightgoldenrodyellow;
+	position:  relative;
+	top: 50px;
+	left: 70px;
+	height:  100px;
+	width:  1270px;
+}
+.blue-class{
+	background-color: steelblue;
+	position:  relative;
+	top: 50px;
+	left: 70px;
+	height:  300px;
+	width:  1270px;
+}
